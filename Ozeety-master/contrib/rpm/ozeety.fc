@@ -1,0 +1,8 @@
+/usr/bin/ozeety-cli		--	gen_context(system_u:object_r:ozeety_exec_t,s0)
+/usr/sbin/ozeetyd		--	gen_context(system_u:object_r:ozeety_exec_t,s0)
+/usr/lib(64)?/ozeety/ozeetyd		--	gen_context(system_u:object_r:ozeety_exec_t,s0)
+
+/etc/ozeety(/.*)?		gen_context(system_u:object_r:ozeety_conf_t,s0)
+/var/lib/ozeety(/.*)?		gen_context(system_u:object_r:ozeety_var_lib_t,s0)
+
+(/var)?/run/ozeetyd(/.*)?   gen_context(system_u:object_r:ozeety_var_run_t,s0)

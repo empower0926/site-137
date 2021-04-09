@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/ozeety_de.ts \
+  qt/locale/ozeety_en.ts \
+  qt/locale/ozeety_en_US.ts \
+  qt/locale/ozeety_es.ts \
+  qt/locale/ozeety_es_ES.ts \
+  qt/locale/ozeety_fr_FR.ts \
+  qt/locale/ozeety_hr_HR.ts \
+  qt/locale/ozeety_it.ts \
+  qt/locale/ozeety_ko_KR.ts \
+  qt/locale/ozeety_nl.ts \
+  qt/locale/ozeety_pl.ts \
+  qt/locale/ozeety_ru.ts \
+  qt/locale/ozeety_tr.ts \
+  qt/locale/ozeety_zh_CN.ts

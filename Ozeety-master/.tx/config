@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[ozeety-project-translations.qt-translation-42x]
+file_filter = src/qt/locale/ozeety_<lang>.ts
+source_file = src/qt/locale/ozeety_en.ts
+source_lang = en

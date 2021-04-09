@@ -1,0 +1,6 @@
+usr/local/bin/ozeety-qt usr/bin
+share/pixmaps/ozeety32.xpm usr/share/pixmaps
+share/pixmaps/ozeety16.xpm usr/share/pixmaps
+share/pixmaps/ozeety128.png usr/share/pixmaps
+debian/ozeety-qt.desktop usr/share/applications
+debian/ozeety-qt.protocol usr/share/kde4/services/

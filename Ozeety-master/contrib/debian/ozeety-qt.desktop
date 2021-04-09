@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=OZEETY Core
+Comment=OZEETY P2P Cryptocurrency
+Comment[fr]=OZEETY, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=OZEETY, eşten eşe kriptografik sanal para birimi
+Exec=ozeety-qt %u
+Terminal=false
+Type=Application
+Icon=ozeety128
+MimeType=x-scheme-handler/ozeety;
+Categories=Office;Finance;
+StartupWMClass=Ozeety-qt

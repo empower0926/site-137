@@ -1,0 +1,11 @@
+[Protocol]
+exec=ozeety-qt '%u'
+protocol=ozeety
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
